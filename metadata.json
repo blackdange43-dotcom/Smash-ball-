@@ -1,0 +1,6 @@
+{
+  "name": "Smash Ball Endless",
+  "description": "Qalqoncha va kuchaytirgichlarga ega cheksiz Smash Ball o'yini: ko'p urishli bloklar, power-up sovg'alar va dinamik ballar tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
